@@ -1,3 +1,6 @@
+//fastscore.schema.0: input_schema
+//fastscore.schema.1: output_schema
+
 
 #include "fastscore.h"
 #include <jansson.h>
