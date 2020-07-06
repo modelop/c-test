@@ -1,0 +1,14 @@
+{
+    "type":"array",
+    "items": {
+        "type":"record",
+        "name":"sample",
+        "fields": [
+            {"name": "field_1", "type":"float"},
+            {"name": "field_2", "type":"int"},
+            {"name": "field_3", "type":"int"},
+            {"name": "field_4", "type":"float"},
+            {"name": "field_5", "type":"string"}
+        ]
+    }
+}
