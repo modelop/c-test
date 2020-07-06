@@ -6,5 +6,6 @@
         "fields": [
             {"name": "square_field_1", "type":"float"},
             {"name": "field_5", "type":"string"}
+        ]
     }
 }
